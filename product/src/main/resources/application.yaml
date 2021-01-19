@@ -1,0 +1,20 @@
+server:
+  port: 3626
+
+spring:
+  application:
+    name: Product Microservice
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: shopping
+
+product:
+  currencies:
+    - INR
+    - USD
+    - EUR
+    - JPY
+    - GBR
+    - RUB

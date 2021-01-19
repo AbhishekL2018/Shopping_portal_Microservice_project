@@ -1,0 +1,8 @@
+product:
+  currencies:
+    - INR
+    - USD
+    - EUR
+    - JPY
+    - RUB
+    - GBP
